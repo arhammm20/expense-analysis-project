@@ -33,7 +33,7 @@ This project analyzes personal expense data to uncover spending patterns, identi
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.png)
 
 ## Business Impact
 
