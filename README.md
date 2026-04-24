@@ -20,7 +20,6 @@ https://expense-analysis-project-xnajokfnpvo7ykuqnvvcmz.streamlit.app
 * **SQL (MySQL)** – Data querying & aggregation
 * **Power BI** – Interactive dashboard & visualization
 * **Streamlit**
-* **Reportlab**
 
 ## Key Features
 
