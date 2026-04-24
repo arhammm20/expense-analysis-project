@@ -4,6 +4,9 @@
 
 This project analyzes personal expense data to uncover spending patterns, identify key cost drivers, and generate actionable financial insights. It demonstrates an end-to-end workflow from data cleaning to interactive dashboard creation.
 
+## Live Demo
+https://expense-analysis-project-xnajokfnpvo7ykuqnvvcmz.streamlit.app
+
 ## Objectives
 
 * Analyze income vs expense trends
@@ -16,6 +19,8 @@ This project analyzes personal expense data to uncover spending patterns, identi
 * **Python** – Data cleaning & transformation
 * **SQL (MySQL)** – Data querying & aggregation
 * **Power BI** – Interactive dashboard & visualization
+* **Streamlit**
+* **Reportlab**
 
 ## Key Features
 
@@ -23,6 +28,14 @@ This project analyzes personal expense data to uncover spending patterns, identi
 * Feature engineering (month extraction, categorization)
 * SQL-based analysis (category-wise & monthly trends)
 * Interactive Power BI dashboard with filters and KPIs
+* - 💳 Key financial KPIs:
+  - Total Debit
+  - Total Credit
+  - Savings
+- 📊 Top Spending Analysis
+- 📅 Monthly Trend Visualization
+- 🔍 Category-based drilldown
+- 📄 Downloadable PDF report
 
 ## Key Insights
 
